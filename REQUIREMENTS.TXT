@@ -1,0 +1,13 @@
+Python Packages
+    bs4
+    csv
+    datetime
+    matplotlib
+    nltk
+    numpy
+    pandas
+    re
+    requests
+    string
+    time
+    wordcloud
